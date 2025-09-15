@@ -12,12 +12,12 @@ const CTA = () => {
         </p>
         
         <a 
-          href="https://groupme.com/join_group/110034638/3ENj8qsT"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScP9LuFwiHEx806tv9zczjCIEzqO1Zjb-FjB4XWoa6BS1NNKQ/viewform"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#CD7F5C] text-white px-12 py-4 rounded-lg font-semibold text-lg hover:bg-[#B8693F] transition-colors inline-block"
         >
-          Join the GroupMe to Get Involved
+          Join the Club
         </a>
       </div>
     </section>

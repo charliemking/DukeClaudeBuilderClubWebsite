@@ -38,7 +38,7 @@ const Header = () => {
             About
           </Link>
           <a 
-            href="https://groupme.com/join_group/110034638/3ENj8qsT"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScP9LuFwiHEx806tv9zczjCIEzqO1Zjb-FjB4XWoa6BS1NNKQ/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-[#CD7F5C] transition-colors"

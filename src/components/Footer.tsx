@@ -34,7 +34,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2 text-gray-300">
                 <MessageCircle className="w-4 h-4" />
-                <span className="text-sm">Biweekly meetings: Thursday 7pm-8pm</span>
+                <span className="text-sm">Biweekly meetings: Thursday 7:15pm to 8:15pm</span>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex space-x-6 mb-4 md:mb-0">
               <a
-                href="https://groupme.com/join_group/110034638/3ENj8qsT"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScP9LuFwiHEx806tv9zczjCIEzqO1Zjb-FjB4XWoa6BS1NNKQ/viewform"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-[#B8693F] rounded-lg hover:bg-blue-600 transition-colors"
